@@ -34,3 +34,6 @@ xmlrpc.php
 /profiles
 /scripts
 /themes
+
+# Custom config Janet Lehmann
+.DS_Store
